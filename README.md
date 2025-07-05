@@ -61,3 +61,10 @@ Here are some ideas to get you started:
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 
 ---
+
+## 📞 Let's Connect
+
+I'm always open to connecting with fellow developers, tech enthusiasts, or recruiters looking for passionate talent in frontend development. Whether it's about Micro Frontends, discussing UI/UX trends, or exploring exciting opportunities — feel free to reach out
+
+- 👔 **LinkedIn:** [linkedin.com/in/mdaltafraja](https://www.linkedin.com/in/mdaltafraja/)
+- 💻 **GitHub:** [github.com/MdAltafRaja](https://github.com/MdAltafRaja)
