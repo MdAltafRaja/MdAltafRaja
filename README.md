@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<h1 align="center">👨‍💻 Md Altaf Raja - Frontend Developer</h1>
+
+👋 Hello! I'm **Md Altaf Raja**, a Frontend Developer with over 3 years of experience building responsive web and mobile applications. I specialize in ReactJS, Redux, Micro Frontend architecture, and React Native for cross-platform development. I'm also familiar with backend technologies like Java and Spring Boot, with hands-on experience in building and integrating APIs.
 
 <!--
 **MdAltafRaja/MdAltafRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,3 +71,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, or recru
 
 - 👔 **LinkedIn:** [linkedin.com/in/mdaltafraja](https://www.linkedin.com/in/mdaltafraja/)
 - 💻 **GitHub:** [github.com/MdAltafRaja](https://github.com/MdAltafRaja)
+
+---
+
+  ✨ Thank you for visiting my profile. Let's build something amazing together!
